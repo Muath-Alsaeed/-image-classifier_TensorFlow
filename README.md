@@ -1,2 +1,2 @@
-Project: Image Classifier Project
+Project: Image Classifier Project.
 
